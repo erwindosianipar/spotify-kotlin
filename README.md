@@ -2,10 +2,10 @@
 
 ## Application Screenshot
 
-<img src="image/home.png" width="100" height="100">
-<img src="image/artist.png" width="100" height="100">
-<img src="image/song.png" width="100" height="100">
-<img src="image/genre.png" width="100" height="100">
+<img src="image/home.png" width="300">
+<img src="image/artist.png" width="300">
+<img src="image/song.png" width="300">
+<img src="image/genre.png" width="300">
 
 ## Use API
 
