@@ -2,10 +2,10 @@
 
 ## Application Screenshot
 
-![Home](image/home.png){:height="200px" width="200px"}
-![Artist](image/artist.png){:height="200px" width="200px"}
-![Song](image/song.png){:height="200px" width="200px"}
-![Genre](image/genre.png){:height="200px" width="200px"}
+<img src="image/home.png" width="100" height="100">
+<img src="image/artist.png" width="100" height="100">
+<img src="image/song.png" width="100" height="100">
+<img src="image/genre.png" width="100" height="100">
 
 ## Use API
 
